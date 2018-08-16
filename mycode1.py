@@ -172,13 +172,13 @@ COX1 +COX2
 # In[35]:
 
 
-firstname = "Felipe"
+firstname = "Felipe Chi-an"
 
 
 # In[36]:
 
 
-lastname="Chen"
+lastname="Chen Yeh"
 
 
 # In[37]:
