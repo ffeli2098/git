@@ -4,7 +4,7 @@
 # In[1]:
 
 
-name = "Felinegato"
+name = "Felipe"
 
 
 # In[2]:
@@ -172,13 +172,13 @@ COX1 +COX2
 # In[35]:
 
 
-firstname = "Felipe Chi-an"
+firstname = "Felipe"
 
 
 # In[36]:
 
 
-lastname="Chen Yeh"
+lastname="Chen"
 
 
 # In[37]:
